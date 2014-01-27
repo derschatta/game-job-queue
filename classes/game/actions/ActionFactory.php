@@ -35,7 +35,7 @@ class ActionFactory {
         $class = $type . "Action";
         
         // set file path of class
-        $file = CLASS_PATH . "/game/actions/" . $class . ".class.php";
+        $file = CLASS_PATH . "/game/actions/" . $class . ".php";
         
         // if the file exists
         if (file_exists($file)) {
@@ -47,7 +47,7 @@ class ActionFactory {
             return $object;
         } else {
             // stop and throw error message
-            die("File {$type}Action.class.php wasn't found");
+            die("File {$type}Action.php wasn't found");
         }
     }
 }

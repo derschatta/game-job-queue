@@ -1,6 +1,6 @@
 <?php
-require_once CLASS_PATH . '/game/events/logs/EventLog.class.php';
-require_once CLASS_PATH . '/game/fleets/FleetPeer.class.php';
+require_once CLASS_PATH . '/game/events/logs/EventLog.php';
+require_once CLASS_PATH . '/game/fleets/FleetPeer.php';
 /**
  * class for logging building buildings
  *

@@ -1,6 +1,6 @@
 <?php
-require_once CLASS_PATH . '/game/events/Events.class.php';
-require_once CLASS_PATH . '/game/actions/ActionFactory.class.php';
+require_once CLASS_PATH . '/game/events/Events.php';
+require_once CLASS_PATH . '/game/actions/ActionFactory.php';
 
 require_once 'Net/Socket.php';
 

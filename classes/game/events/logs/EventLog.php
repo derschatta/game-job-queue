@@ -1,5 +1,5 @@
 <?php
-require_once CLASS_PATH . '/game/events/Events.class.php';
+require_once CLASS_PATH . '/game/events/Events.php';
 
 /**
  * abstract class for all EventLogs

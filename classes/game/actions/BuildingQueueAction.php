@@ -1,10 +1,10 @@
 <?php
-require_once CLASS_PATH . '/game/actions/AbstractAction.class.php';
-require_once CLASS_PATH . '/game/events/Events.class.php';
-require_once CLASS_PATH . '/game/queues/QueueFactory.class.php';
+require_once CLASS_PATH . '/game/actions/AbstractAction.php';
+require_once CLASS_PATH . '/game/events/Events.php';
+require_once CLASS_PATH . '/game/queues/QueueFactory.php';
 
-require_once CLASS_PATH . '/game/base/Base.class.php';
-require_once CLASS_PATH . '/game/base/Slot.class.php';
+require_once CLASS_PATH . '/game/base/Base.php';
+require_once CLASS_PATH . '/game/base/Slot.php';
 
 /**
  * class for creating an building from the building queue

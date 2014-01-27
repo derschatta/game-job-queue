@@ -1,6 +1,6 @@
 <?php
-require_once CLASS_PATH . '/game/actions/AbstractAction.class.php';
-require_once CLASS_PATH . '/game/events/Events.class.php';
+require_once CLASS_PATH . '/game/actions/AbstractAction.php';
+require_once CLASS_PATH . '/game/events/Events.php';
 
 /**
  * class for creating an building from the building queue

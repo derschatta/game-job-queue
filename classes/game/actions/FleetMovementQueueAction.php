@@ -1,8 +1,8 @@
 <?php
-require_once CLASS_PATH . '/game/actions/AbstractAction.class.php';
-require_once CLASS_PATH . '/game/events/Events.class.php';
-require_once CLASS_PATH . '/game/fleets/FleetPeer.class.php';
-require_once CLASS_PATH . '/game/fleets/FleetAction.class.php';
+require_once CLASS_PATH . '/game/actions/AbstractAction.php';
+require_once CLASS_PATH . '/game/events/Events.php';
+require_once CLASS_PATH . '/game/fleets/FleetPeer.php';
+require_once CLASS_PATH . '/game/fleets/FleetAction.php';
 
 /**
  * class for creating an building from the building queue

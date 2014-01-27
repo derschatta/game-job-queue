@@ -22,7 +22,7 @@ $log = Registry::getModule('Log');
 $log->log('ActionServer started!');
 
 // required ActionServerHandler
-require CLASS_PATH . '/game/actions/ActionServerHandler.class.php';
+require CLASS_PATH . '/game/actions/ActionServerHandler.php';
 
 // pear class used for this server
 require 'Net/Server.php';
