@@ -23,7 +23,7 @@ require_once CLASS_PATH . '/game/events/Events.php';
  * Handler for the Action server.
  * It implements the functionality of the server
  *
- * @author Fabian von Derschatta <fabian@space-frontier.net>
+ * @author Fabian von Derschatta <fabian@derschatta.de>
  * @package game
  * @subpackage actions
  */

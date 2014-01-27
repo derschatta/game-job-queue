@@ -3,7 +3,7 @@
 /**
  * class for storing objects in it for easier later use
  *
- * @author fabian von derschatta <fabian@space-frontier.net>
+ * @author fabian von derschatta <fabian@derschatta.de>
  *        
  */
 class Registry {

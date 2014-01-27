@@ -3,7 +3,7 @@
 /**
  * abstract class for all Actions, use as template
  *
- * @author Fabian von Derschatta <fabian@space-frontier.net>
+ * @author Fabian von Derschatta <fabian@derschatta.de>
  * @package game
  * @subpackage actions
  */

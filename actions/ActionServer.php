@@ -8,8 +8,6 @@
  *
  * @package actions
  * @author Fabian von Derschatta
- * @copyright 2008 space-frontier
- * @version SVN: $Id:$
  * @see PEAR:Net_Server, ActionServerHandler
  */
 require_once 'Log.php';

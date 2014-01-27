@@ -10,7 +10,7 @@ require_once CLASS_PATH . '/game/base/Slot.php';
  * class for creating an building from the building queue
  * uses run to start the action
  *
- * @author Fabian von Derschatta <fabian@space-frontier.net>
+ * @author Fabian von Derschatta <fabian@derschatta.de>
  * @package game
  * @subpackage actions
  */
