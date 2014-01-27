@@ -4,7 +4,7 @@
 error_reporting(E_ALL);
 require_once "System/Daemon.php";
 
-require_once CLASS_PATH . "/game/daemon/EventHandler.daemon2.php";
+require_once CLASS_PATH . "/game/daemon/EventHandler.php";
 require_once CLASS_PATH . "/lib/db/adodbSimple/adodb.inc.php";
 
 require_once 'Log.php';
