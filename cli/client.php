@@ -29,7 +29,7 @@ System_Daemon::start();
 
 System_Daemon::log(System_Daemon::LOG_INFO, "Daemon: '" . System_Daemon::getOption("appName") . "' spawned! This will be written to " . System_Daemon::getOption("logLocation"));
 
-$eventhandler = new EventHandler($pear_log);
+$eventhandler = new client($pear_log);
 $eventhandler->start();
 
 System_Daemon::stop();
