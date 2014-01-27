@@ -2,7 +2,7 @@
 session_start();
 error_reporting(E_ALL);
 
-define('HOME_PATH', '/var/www/spacefrontier');
+define('HOME_PATH', '/var/www/game');
 define('CLASS_PATH', HOME_PATH.'/classes');
 
 require_once CLASS_PATH.'/lib/Registry.class.php';
