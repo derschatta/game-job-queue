@@ -7,7 +7,7 @@
  * for executing actions send to this server.
  *
  * @package actions
- * @author Fabian von Derschatta
+ * @author Fabian Derschatta
  * @see PEAR:Net_Server, ActionServerHandler
  */
 require_once 'Log.php';

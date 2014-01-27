@@ -6,7 +6,7 @@ require_once CLASS_PATH . '/game/events/logs/EventLog.php';
  *
  * @package game
  * @subpackage events
- * @author Fabian von Derschatta
+ * @author Fabian Derschatta
  */
 class BuildingEventLog extends EventLog {
     public function __construct($base_id) {

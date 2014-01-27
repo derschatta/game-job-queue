@@ -8,7 +8,7 @@
  *
  * @package game
  * @subpackage actions
- * @author Fabian von Derschatta
+ * @author Fabian Derschatta
  * @copyright 2008 space-frontier
  * @version SVN: $Id:$
  */

@@ -6,7 +6,7 @@ require_once CLASS_PATH . '/game/fleets/FleetPeer.php';
  *
  * @package game
  * @subpackage events
- * @author Fabian von Derschatta
+ * @author Fabian Derschatta
  */
 class MovementEventLog extends EventLog {
     const PLAYER_ROLE_ATTACKER = 1;

@@ -6,7 +6,7 @@
  *
  * @package game
  * @subpackage actions
- * @author Fabian von Derschatta
+ * @author Fabian Derschatta
  * @copyright 2008 space-frontier
  * @version SVN: $Id:$
  * @see PEAR:Net_Server_Handler, Net_Server
@@ -23,7 +23,7 @@ require_once CLASS_PATH . '/game/events/Events.php';
  * Handler for the Action server.
  * It implements the functionality of the server
  *
- * @author Fabian von Derschatta <fabian@derschatta.de>
+ * @author Fabian Derschatta <fabian@derschatta.de>
  * @package game
  * @subpackage actions
  */

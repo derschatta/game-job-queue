@@ -6,7 +6,7 @@ require_once CLASS_PATH . '/game/events/Events.php';
  *
  * @package game
  * @subpackage events
- * @author Fabian von Derschatta
+ * @author Fabian Derschatta
  */
 abstract class EventLog {
     

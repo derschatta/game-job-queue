@@ -8,7 +8,7 @@ require_once 'Net/Socket.php';
  * class for handling the events table and redirect
  * the events to the specific event daemons
  *
- * @uthor Fabian von Derschatta <fabian@derschatta.de>
+ * @uthor Fabian Derschatta <fabian@derschatta.de>
  * 
  * @package game
  * @subpackage daemon
