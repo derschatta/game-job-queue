@@ -4,7 +4,7 @@ game-job-queue
 A job queue with the ability to spread processing the queue to multiple servers
 
 
-This version was taken from a space game, on which my friend Stu and I were working on a few years ago.
+This version was taken from a space game, on which I worked on with a friend a number of years ago. We eventually stopped the project. At one point I got nostalgic and digged the code up and put it up here.
 
 I created this job queue to manage all the various events taking place in this game. All events, as I called them,  should be executed on a specific time. Not before not after.
 
